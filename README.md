@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things DevOps, Cloud and Platform Engineering.
 - 🌱 I’m currently learning various tools in Platform Engineering.
 - 💞️ I’m looking to collaborate on open source cloud projects.
-- 📫 How to reach me tsrizwan.hce@gmail.com
+- 📫 Reach out to me via tsrizwan.hce@gmail.com
 
 <!---
 tsrizwan/tsrizwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
